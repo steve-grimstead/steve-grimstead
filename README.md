@@ -1,7 +1,5 @@
 # Steve Grimstead
-### *IT Admins are not born, they are forged by :fire:!* 😆
-
-## Empowering Systems, Empowering People
+### Experienced IT Infrastructure Architect and Solutions Specialist with a proven background in designing, deploying, and managing both traditional and cloud-based environments
 
 Hello and welcome! 
 
