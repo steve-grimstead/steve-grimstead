@@ -7,6 +7,7 @@ I’m Steve and I’ve been in IT for over 2 decades. I am passionate about buil
 
 Through my [YouTube channel](https://www.youtube.com/@stevegrimstead) I share the knowledge I’ve gained from over two decades in the IT industry in a fun and engaging way. My goal is to break down complex topics, making them accessible and easy to understand, so that you can build a solid toolkit and the confidence to tackle whatever IT challenges you might face out in the wild. 
 
+## Skills
 - Microsoft Active Directory
 - Windows Server
 - Microsoft Hyper-V
@@ -15,9 +16,17 @@ Through my [YouTube channel](https://www.youtube.com/@stevegrimstead) I share th
 - Microsoft Dynamics 365
 - Business IT planning
 - Systems Engineering and Management
+- AWS
+- Azure
+- Google Cloud Platform
+
+## Development Languages
 - C#
 - PowerShell
-- Web Development
+- Node.js
+- Javascript
+- Python
+- Typescript
   
 <!--
 **steve-grimstead/steve-grimstead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
